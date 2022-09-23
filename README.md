@@ -16,18 +16,18 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/LFDXCchp1i.gif" width=250><br>
 
 ### Notes
-I changed the layout view to only two posters instead three because the amount of superhero movies were even and it looked better to me.
+// I changed the layout view to only two posters instead three because the amount of superhero movies were even and it looked better to me.
 
 ## Flix Part 1
 
 #### REQUIRED (10pts)
-- [-] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
 - [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [-] (2pt) User can view the app on various device sizes and orientations.
-- [-] (1pt) Run your app on a real device.
+- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 <img src="http://g.recordit.co/2CuyeDwwJU.gif" width=250><br>
