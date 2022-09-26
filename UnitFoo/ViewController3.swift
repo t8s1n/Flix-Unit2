@@ -1,5 +1,5 @@
 //
-//  ViewController3.swift
+//  MovieGridViewController.swift
 //  UnitFoo
 //
 //  Created by Jesse Oseafiana on 9/23/22.

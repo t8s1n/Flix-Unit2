@@ -1,5 +1,5 @@
 //
-//  TableViewCell.swift
+//  MovieCell.swift
 //  UnitFoo
 //
 //  Created by Jesse Oseafiana on 9/17/22.

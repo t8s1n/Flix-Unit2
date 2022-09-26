@@ -1,5 +1,5 @@
 //
-//  ViewController2.swift
+//  MoviesDetailsViewController.swift
 //  UnitFoo
 //
 //  Created by Jesse Oseafiana on 9/23/22.

@@ -1,5 +1,5 @@
 //
-//  CollectionViewCell.swift
+//  MovieGridCell.swift
 //  UnitFoo
 //
 //  Created by Jesse Oseafiana on 9/23/22.
